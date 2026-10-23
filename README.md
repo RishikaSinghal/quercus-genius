@@ -1,4 +1,4 @@
-# MCP Student Planner
+# Quercus Genius
 
 ### AI-Powered Academic Planning Assistant Using Model Context Protocol (MCP)
 
